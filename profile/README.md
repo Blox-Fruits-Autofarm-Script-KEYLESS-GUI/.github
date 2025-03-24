@@ -34,7 +34,6 @@ This **100% KEYLESS**, open-source GUI script automates repetitive tasks in *Blo
 
 ⚠️ **Note**: Always use automation tools responsibly. This script is for educational purposes and may violate Roblox TOS if misused.  
 
-🔗 **Get Started Now**:  **[![Download Autofarm Script](https://img.shields.io/badge/Download-Script%20Executor-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
 👉 **GitHub Repo**: [Insert Link]  
 👉 **Discord Support**: [Insert Link]  
 
